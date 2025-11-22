@@ -1,2 +1,2 @@
-# The-final-project-of-the-year
-- Contents will be updated soon !
+`Contents will be updated soon !`
+![Image](./Learning-Materials/november2025.png)
