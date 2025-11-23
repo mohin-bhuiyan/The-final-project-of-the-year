@@ -1,5 +1,6 @@
 
-# 2025 
+![2025](./Learning-Materials/kichuEktaKori.PNG)
+
 2025 was a year full of dreams. Let's end this year by making something meaningful, `A Dynamic Website` from scratch. It will be simple yet meaningful, fully working.  You can join us anyday. Just send me a mail. 
 
 ## __Current Group Members__
@@ -13,11 +14,15 @@
 <pre>
 Dear Team!
 
-I know this is something new for you. But I promise I
-will help you to reach the ceilling, even I don't know 
-anything in advance yet I'm happy to be a part of this
-project. We will plan and grow this project. Let's finish 
-this project and call it a year. 
+I know this is something new 
+for you. But I promise I will
+help you to reach the ceilling,
+ even I don't know anything in
+advance yet I'm happy to be a 
+part of this project. We will 
+plan and grow this project. 
+Let's finish this project and 
+call it a year. 
 
 Your friend, 
 Tonoy!
