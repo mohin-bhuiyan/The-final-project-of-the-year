@@ -7,7 +7,7 @@
 |1. Tanvir Rahman Tonoy| [Tanvir000Tonoy](https://github.com/Tanvir000Tonoy) |
 |2. Riyadh  | [riyadh5674](https://github.com/riyadh5674)
 |3. Shimul Sarker | [shimulsarker10](https://github.com/shimulsarker10)
-
+|4. Amit Kor | [amitkor0](https://github.com/amitkor0)
 
 <pre>
 Dear Team!
@@ -48,9 +48,13 @@ Week 01 - Front end :
 - Riyadh - [NAV]()
 - Shimul - [NAV]()
 
-`NAV - not a video `
+`NAV - not a video`
 
+Week 02 - Front end : 
 
+![w3December2025](./src/img/DecemberWeek2.png)
+
+In this week we will focus on making the home page and also  assuring it's responsiveness for multiple platform
 <!-- `Optional - for 2026`
 
 - [MySQL](https://www.w3schools.com/mysql/default.asp)
