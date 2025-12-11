@@ -8,14 +8,15 @@ main{
 }
 
 .left-column{
-width: 5rem;
+    width: 40%;
+
 height: 100%;
 background-color: whitesmoke;
 padding: 1rem ;
 }
 
 .left-column.active{
-    width: 40%;
+width: 5rem;    
 }
 
 .toggle-left-menu{
@@ -37,13 +38,13 @@ padding: 1rem ;
 }
 
 .left-menu-content{
-    display: none;
+    display: flex;
     flex-direction: column;
     margin-top: 1rem;   
     /* border: 1px solid red; */
 }
 .left-menu-content.active{
-    display: flex;
+    display: none;
 }
 
 .left-menu-content ul {
@@ -82,13 +83,32 @@ overflow-x: hidden;
 
 }
 
+.hero .banner{
+    background-color: #333;
+    height: 50vh;
+    border-radius: 1rem;
+}
+
+.hero .banner h3{
+    color: white;
+    display: flex;
+    width: 100%;
+    height: 100%;
+    /* border: 1px solid red; */
+    align-items: center;
+    justify-content: center;
+    font-size: 5rem;
+}
 .right-column{
-width: 40%; 
+width: 5rem;
 height: 100%;
 background-color: whitesmoke;
 padding: 1rem ;
 }
-
+.right-column.active{
+    /* width: 5rem; */
+    width: 40%;
+}
 
 @media (max-width: 768px) {
 .left-column, .right-column{

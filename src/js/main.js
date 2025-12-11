@@ -13,7 +13,7 @@ function toggleMenu(X,Y,Z = null){
 
 toggleMenu('menu-icon', 'nav-links');
 toggleMenu('toggle-left-menu', 'left-column','left-menu-content');
-
+toggleMenu('toggle-right-menu','right-column');
 
 
 // I want to add an click event in every prodcut tile to open a detail view of the product. when the user clicks in the tile, it will redirect to product-details.html with the product id as query parameter.
