@@ -3,9 +3,34 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../stylesheets/main.css">
+    <script defer type="module" src="../js/main.js"></script>
     <title>Product Details</title>
 </head>
 <body>
+<header>
+        <nav>
+            <div class="logo">Logo</div>
+            <div class="search-bar">
+                <form action="index.php" method="get">  
+                    <input type="text" placeholder="Search..."> 
+                    <input type="submit" value="Find">
+                </form> 
+            </div>
+            <div class="menu-icon" id="menu-icon">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+            <ul id="nav-links">
+                <li><a href="#">Home</a></li>
+                <li><a href="./src/pages/history.html">History</a></li>
+                <li><a href="./src/pages/account.html">Account</a></li>
+                <li><a href="./src/pages/customer-service.html">Customer Service</a></li>
+            </ul>
+        </nav>
+     </header>
+
     <ul>
         <li>
             <h1>Product Details Page</h1>

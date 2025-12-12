@@ -100,14 +100,15 @@ overflow-x: hidden;
     font-size: 5rem;
 }
 .right-column{
-width: 5rem;
+    width: 40%;
+
 height: 100%;
 background-color: whitesmoke;
 padding: 1rem ;
 }
 .right-column.active{
     /* width: 5rem; */
-    width: 40%;
+width: 5rem;    
 }
 
 @media (max-width: 768px) {

@@ -1,4 +1,7 @@
-
+:root{
+    --theme : #333;
+    --hover-theme : #555;
+}
 /* 
 <header>
         <nav>
@@ -19,7 +22,7 @@
 
 */
 header {
-    background-color: #333;
+    background-color: var(--theme);
     color: white;
 }
 
@@ -91,7 +94,7 @@ nav ul li {
 }
 nav ul li:hover{
     
-    background-color: #222;
+    background-color: var(--hover-theme);
 }
 
 nav ul li a {
@@ -144,7 +147,7 @@ border-radius: 0% 0% 100% 100%;}
 }
 
     nav ul li a {
-    color: #222;
+    color: var(--hover-theme);
 }
 
 }
