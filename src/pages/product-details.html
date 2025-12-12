@@ -4,7 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../stylesheets/main.css">
+    <link rel="stylesheet" href="../stylesheets/productDetails.css">
     <script defer type="module" src="../js/main.js"></script>
+
+    <script defer src="../js/image_src_change.js"></script>
     <title>Product Details</title>
 </head>
 <body>
@@ -23,20 +26,31 @@
                 <span></span>
             </div>
             <ul id="nav-links">
-                <li><a href="#">Home</a></li>
-                <li><a href="./src/pages/history.html">History</a></li>
-                <li><a href="./src/pages/account.html">Account</a></li>
-                <li><a href="./src/pages/customer-service.html">Customer Service</a></li>
+                <li><a href="../../index.html">Store</a></li>
+                <li><a href="./history.html">History</a></li>
+                <li><a href="./account.html">Account</a></li>
+                <li><a href="./customer-service.html">Customer Service</a></li>
             </ul>
         </nav>
-     </header>
-
-    
+ </header>
+        <main>
             <div class="product_info">
             <div class="product_info_left">
                 <img src="../img/product_images/817w70GDTLL._AC_SX342_.jpg" alt="picture is not loaded">
+                <div class="alternative_images">
+                    <img src="../img/product_images/81AGpEqaF0L._AC_SX342_.jpg" alt="picture is not loaded" class="alt-images">
+                    <img src="../img/product_images/81HWhiRRxIL._AC_SX342_.jpg" alt="picture is not loaded" class="alt-images">
+                    <img src="../img/product_images/817w70GDTLL._AC_SX342_.jpg" alt="picture is not loaded" class="alt-images">
+                </div>
             </div>
+            <div class="product_info_right">
+                <h2>Men T-Shirt </h2>
+                <p class="price">$249.00</p>
+                <p class="description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam corporis non veniam repellat. Reprehenderit laborum ad ducimus quam, consectetur voluptatibus dolorem. Vel sint nihil reiciendis dolore, culpa, at illo vero accusantium esse, ea autem magni consequuntur. Voluptate vero explicabo voluptas ea cupiditate nisi distinctio, quod quia? Ratione tenetur ad odit?</p>
+                <button class="add-to-cart-btn">Add to Cart</button>
+
             </div>
+        </main>
             
             <!-- <h1>Product Details Page</h1> 
             <p>This is a placeholder for product details.</p>
