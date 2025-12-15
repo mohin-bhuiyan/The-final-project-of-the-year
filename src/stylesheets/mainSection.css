@@ -10,7 +10,7 @@ main{
 
 .left-column{
     width: 40%;
-transition: .3s;  /*rian*/
+transition: .3s; 
 height: 100%;
 background-color: whitesmoke;
 padding: 1rem ;
