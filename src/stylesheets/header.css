@@ -1,6 +1,10 @@
 :root{
     --theme : #333;
     --hover-theme : #555;
+
+    /* text colors */
+
+    --body_text:#636363;
 }
 /* 
 <header>
@@ -89,7 +93,6 @@ nav ul {
 
 nav ul li {
     transition: all ease .2s;
-    padding: .5rem;
     border-radius: .4rem;
 }
 nav ul li:hover{
@@ -102,6 +105,8 @@ nav ul li a {
     text-decoration: none;
     font-size: 1rem;
     transition: color 0.3s ease;
+    display: inline-block;
+    padding:.5rem;
 }
 
 @media (max-width: 768px) {
